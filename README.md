@@ -13,7 +13,7 @@ It is designed for organizations that need to:
 
 ## 🚀 Solution Overview
 
-![Azure Copilot Document Intelligence Architecture](azure_copilot_doc-int.png)
+![Azure Copilot Document Intelligence Architecture](copilot_azure_integration.png)
 
 
 The architecture combines:
@@ -126,8 +126,6 @@ For the complete deep-dive explanation including:
 - Human-in-the-loop design  
 - Security trimming mechanism  
 - And full architectural rationale  
-
-👉 See the **Wiki** of this repository.
 
 ---
 
