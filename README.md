@@ -13,6 +13,9 @@ It is designed for organizations that need to:
 
 ## 🚀 Solution Overview
 
+![Azure Copilot Document Intelligence Architecture](azure_copilot_doc-int.png)
+
+
 The architecture combines:
 
 - AI-powered document extraction using **:contentReference[oaicite:0]{index=0}**
