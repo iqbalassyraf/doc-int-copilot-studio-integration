@@ -18,11 +18,11 @@ It is designed for organizations that need to:
 
 The architecture combines:
 
-- AI-powered document extraction using **:contentReference[oaicite:0]{index=0}**
-- Event-driven processing with **:contentReference[oaicite:1]{index=1}**
-- Secure enterprise backend using **:contentReference[oaicite:2]{index=2}**
-- Multi-agent orchestration with **:contentReference[oaicite:3]{index=3}**
-- Identity-based security with **:contentReference[oaicite:4]{index=4}**
+- AI-powered document extraction using **Azure Document Intelligence**
+- Event-driven processing with **Azure Functions**
+- Secure enterprise backend using **Azure SQL Managed Instance**
+- Multi-agent orchestration with **Copilot Studio**
+- Identity-based security with **Microsoft Entra ID**
 - Multi-channel publishing to **Microsoft Teams**, Web Apps, and WhatsApp
 
 This is not a chatbot demo — it is a **production-grade Intelligent Document Automation & Secure AI Agent Platform**.
